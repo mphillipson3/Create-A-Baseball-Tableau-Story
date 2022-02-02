@@ -1,9 +1,12 @@
 # Create-A-Baseball-Tableau-Story
 
 Project Overview
+
 For this project, you will create a data visualization using Tableau that tells a story or highlights trends or patterns in a data set. Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
+
 What do I need to install?
 Before working on the project, you will need to have either Tableau Public or Tableau Desktop installed. You will need a software license to use Tableau Desktop. If you don't have one, you can download Tableau Public HERE. 
+
 Why this Project?
 This project will touch on the overarching attitudes and beliefs important to effective data visualization, such as:
 •	visualization is a dialog
